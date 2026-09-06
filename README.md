@@ -4,6 +4,8 @@ Chatbot baseado em regras desenvolvido em Python com a biblioteca NLTK para simu
 
 O projeto foi criado como parte dos estudos e da prática em Python e Processamento de Linguagem Natural (PLN), com foco na estruturação de diálogos, no reconhecimento de padrões e no tratamento das entradas do usuário.
 
+> **Projeto de estudo:** criado para praticar Python, NLTK, expressões regulares e conceitos iniciais de Processamento de Linguagem Natural.
+
 ## Funcionalidades
 
 - Responde a perguntas previamente definidas
